@@ -1,5 +1,5 @@
 {
-    "name": "laravel-notification-channels/smsapi",
+    "name": "tsarbo/smsapi",
     "description": "Smsapi Notifications Channel for Laravel",
     "homepage": "https://github.com/laravel-notification-channels/smsapi",
     "license": "MIT",
