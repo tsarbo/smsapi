@@ -15,7 +15,7 @@
         "php": ">=5.6.4",
         "illuminate/notifications": "^5.3",
         "illuminate/support": "^5.3",
-        "smsapi/php-client": "^1.8"
+        "smsapi.com/php-client": "^1.7"
     },
     "require-dev": {
         "mockery/mockery": "^0.9.5",
